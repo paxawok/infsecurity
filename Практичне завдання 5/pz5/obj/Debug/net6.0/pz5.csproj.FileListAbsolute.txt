@@ -1,0 +1,15 @@
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\bin\Debug\net6.0\pz5.exe
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\bin\Debug\net6.0\pz5.deps.json
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\bin\Debug\net6.0\pz5.runtimeconfig.json
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\bin\Debug\net6.0\pz5.dll
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\bin\Debug\net6.0\pz5.pdb
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.csproj.AssemblyReference.cache
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.AssemblyInfoInputs.cache
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.AssemblyInfo.cs
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.csproj.CoreCompileInputs.cache
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.dll
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\refint\pz5.dll
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.pdb
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\pz5.genruntimeconfig.cache
+E:\Study KNU\III\Інформаційна безпека\Практичні\Практичне завдання 5\pz5\obj\Debug\net6.0\ref\pz5.dll
